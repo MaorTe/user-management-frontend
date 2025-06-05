@@ -2,9 +2,10 @@
 
 Hosted on Netlify: https://user-management-api-v.netlify.app/
 
-A React + TypeScript + Vite single‐page application (SPA) for managing users and their associated cars.
+A React (v19) + TypeScript + Vite single-page application (SPA) for managing users and their associated cars.
 This frontend consumes a RESTful backend (e.g., the UserManagementApi) to provide Create, Read, Update, and Delete (CRUD) operations for both users and cars.
-The project follows a modular "clean‐style" structure—separating public assets, application entry points, presentation components, service (API) calls, and styling.
+It uses SCSS for styling, Axios for HTTP requests, and React Query for efficient data fetching and caching.
+The project follows a modular "clean-style" structure—separating public assets, application entry points, presentation components, service (API) calls, and styling.
 
 ---
 
