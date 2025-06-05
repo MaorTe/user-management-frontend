@@ -1,0 +1,15 @@
+/* Styling for car tables/forms can go here */
+.car-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.car-table th,
+.car-table td {
+  border: 1px solid #dee2e6;
+  padding: 0.5rem;
+}
+
+.car-table th {
+  background-color: #f1f1f1;
+}

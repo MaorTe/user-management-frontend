@@ -1,0 +1,15 @@
+/* Basic styling—customize as needed */
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #dee2e6;
+  padding: 0.5rem;
+}
+
+.user-table th {
+  background-color: #f1f1f1;
+}
